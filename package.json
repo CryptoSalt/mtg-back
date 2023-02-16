@@ -1,0 +1,22 @@
+{
+  "name": "mtg-back",
+  "version": "1.0.0",
+  "description": "Service to manage MTG cards inventory",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CryptoSalt/mtg-back.git"
+  },
+  "author": "Roberto Luis García",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CryptoSalt/mtg-back/issues"
+  },
+  "homepage": "https://github.com/CryptoSalt/mtg-back#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
